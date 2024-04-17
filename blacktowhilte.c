@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
-
+//t
 #define THRESHOLD 128
 #define WHITE 255
 #define BLACK 0
